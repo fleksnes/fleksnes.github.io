@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: radial-gradient(#212121 10%, transparent 15%), radial-gradient(grey 10%, transparent 15%);
+  background-image: radial-gradient(#2e2e2e 10%, transparent 15%), radial-gradient(#1a1a1a 10%, transparent 15%);
   background-color: black;
   background-position: 0 0, 50px 50px;
   background-size: 100px 100px;
